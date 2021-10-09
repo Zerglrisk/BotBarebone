@@ -1,0 +1,30 @@
+{
+  "name": "botbarebone",
+  "version": "1.0.0",
+  "description": "This is a Bot BareBone for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zerglrisk/BotBarebone.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "Zerglrisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zerglrisk/BotBarebone/issues"
+  },
+  "homepage": "https://github.com/Zerglrisk/BotBarebone#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
